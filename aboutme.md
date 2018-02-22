@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd like to comb my beard
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is JLeeSamBOld. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am awesome at growing beards
+- I am awesome at eating
 
 What else do you need?
 
